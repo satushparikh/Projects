@@ -1,0 +1,2 @@
+mem not 2^16 small than that,so  not all 2^16 registers not all memory addresses come
+will any testbench be provided or should we keep some simulations ready
